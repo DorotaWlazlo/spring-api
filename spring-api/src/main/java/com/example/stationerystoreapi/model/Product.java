@@ -31,6 +31,8 @@ public class Product {
 
     public Long getId() {
         return id;
+    } public String getManufacturer() {
+        return manufacturer;
     }
 
     public String getName() {
@@ -40,6 +42,7 @@ public class Product {
     public String getType() {
         return type;
     }
+
 
 
     public double getPrice() {
