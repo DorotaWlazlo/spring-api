@@ -41,9 +41,6 @@ public class Product {
         return type;
     }
 
-    public String getManufacturer() {
-        return manufacturer;
-    }
 
     public double getPrice() {
         return price;
